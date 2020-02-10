@@ -39,7 +39,7 @@ References sections contain more advanced resources.
 ### Courses
 
 * **[MIT OCW - Advanced Natural Language Processing](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/index.htm)**
-  * Lecture progress: lecture 2, slide 38
+  * Lecture progress: Finished lecture 2, also looked at lecture 4 and 18, both are useful
   
 * [MIT OCW - Natural Language and the Computer Representation of Knowledge](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/index.htm)
 

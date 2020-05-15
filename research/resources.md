@@ -13,7 +13,7 @@ Bolding indicates increased importance.
 * [spaCy](https://spacy.io/)
 
 * [GraphEngine](https://www.graphengine.io/)
-  * [Github](https://github.com/Microsoft/GraphEngine)
+  * [Github repository](https://github.com/Microsoft/GraphEngine)
   * Related: [Trinity](https://www.microsoft.com/en-us/research/project/trinity/)
 
 * [Wikipedia - List of graph databases](https://en.wikipedia.org/wiki/Graph_database#List_of_graph_databases)
@@ -36,7 +36,15 @@ References sections contain more advanced resources.
   * Useful for reading about word types, especially the links in the right panel.
   * Relevant phrases: word class, word function.
 
+* [Wikipedia - Head-driven phrase structure grammar](https://en.wikipedia.org/wiki/Head-driven_phrase_structure_grammar)
+
 * [Wikipedia - Generative Semantics](https://en.wikipedia.org/wiki/Generative_semantics)
+
+* [Wikipedia - Deep structure and surface structure](https://en.wikipedia.org/wiki/Deep_structure_and_surface_structure)
+
+* [Wikipedia - Underlying representation](https://en.wikipedia.org/wiki/Underlying_representation)
+
+* [Wikipedia - Semantic similarity](https://en.wikipedia.org/wiki/Semantic_similarity)
   
 * [Wikipedia - Knowledge graph](https://en.wikipedia.org/wiki/Knowledge_Graph)
 

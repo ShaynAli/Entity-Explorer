@@ -36,7 +36,7 @@ References sections contain more advanced resources.
   * Useful for reading about word types, especially the links in the right panel.
   * Relevant phrases: word class, word function.
 
-* [Wikipedia - Head-driven phrase structure grammar](https://en.wikipedia.org/wiki/Head-driven_phrase_structure_grammar)
+* **[Wikipedia - Head-driven phrase structure grammar](https://en.wikipedia.org/wiki/Head-driven_phrase_structure_grammar)**
 
 * [Wikipedia - Generative Semantics](https://en.wikipedia.org/wiki/Generative_semantics)
 

@@ -71,7 +71,7 @@ References sections contain more advanced resources.
 
 ## Books
 
-* ### Aspects of the Theory of Syntax by Chomsky
+* Aspects of the Theory of Syntax by Chomsky
 
 ## Existing Approaches
 
@@ -113,6 +113,13 @@ References sections contain more advanced resources.
  
  * [Does Google Content Degrade Google Search?](https://dash.harvard.edu/bitstream/handle/1/23492375/16-035.pdf?sequence=1)
  
+# Getting Meaningful Content From Web Pages
+
+* [Readability](https://ejucovy.github.io/readability/)
+
+  * [Core functionality](https://github.com/masukomi/arc90-readability/blob/master/js/readability.js)
+  
+  * [Python port](https://github.com/buriy/python-readability)
  
  ## Other
  

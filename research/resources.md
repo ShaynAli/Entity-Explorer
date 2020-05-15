@@ -47,6 +47,8 @@ References sections contain more advanced resources.
 * [Wikipedia - Underlying representation](https://en.wikipedia.org/wiki/Underlying_representation)
 
 * [Wikipedia - Semantic similarity](https://en.wikipedia.org/wiki/Semantic_similarity)
+
+* [Wikipedia - Feature structure](https://en.wikipedia.org/wiki/Feature_structure)
   
 * [Wikipedia - Knowledge graph](https://en.wikipedia.org/wiki/Knowledge_Graph)
 

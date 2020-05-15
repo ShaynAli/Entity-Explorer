@@ -20,9 +20,11 @@ Bolding indicates increased importance.
 
 * **[CMU parser](https://www.link.cs.cmu.edu/cgi-bin/link/construct-page-4.cgi#submit)**
 
-* **[ENJU](https://github.com/mynlp/enju)**
+* **[Enju](https://github.com/mynlp/enju)**
 
   * Parsing via a Head-driven Phrase Structure Grammar (HPSG).
+  
+  * [Archived homepage](https://web.archive.org/web/20100307175009/http://www-tsujii.is.s.u-tokyo.ac.jp/enju/)
   
 * [Google Cloud - Natural Language](https://cloud.google.com/natural-language/)
 

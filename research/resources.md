@@ -18,15 +18,25 @@ Bolding indicates increased importance.
 
 * [Wikipedia - List of graph databases](https://en.wikipedia.org/wiki/Graph_database#List_of_graph_databases)
 
+* **[CMU parser](https://www.link.cs.cmu.edu/cgi-bin/link/construct-page-4.cgi#submit)**
+
+* **[ENJU](https://github.com/mynlp/enju)**
+
+  * Parsing via a Head-driven Phrase Structure Grammar (HPSG).
+  
+* [Google Cloud - Natural Language](https://cloud.google.com/natural-language/)
+
 ## Learning
 
-### Basics
+### Articles
 
 References sections contain more advanced resources.
 
 * [Wikipedia - English grammar](https://en.wikipedia.org/wiki/English_grammar)
   * Useful for reading about word types, especially the links in the right panel.
   * Relevant phrases: word class, word function.
+
+* [Wikipedia - Generative Semantics](https://en.wikipedia.org/wiki/Generative_semantics)
   
 * [Wikipedia - Knowledge graph](https://en.wikipedia.org/wiki/Knowledge_Graph)
 
@@ -59,6 +69,10 @@ References sections contain more advanced resources.
 
 * [MIT OCW - Mathematics of Machine Learning](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/index.htm)
 
+## Books
+
+* ### Aspects of the Theory of Syntax by Chomsky
+
 ## Existing Approaches
 
 * ### Google Knowledge Graph
@@ -67,15 +81,22 @@ References sections contain more advanced resources.
 
   * [API](https://developers.google.com/knowledge-graph/)
   
-  * [Knowledge Mining API](https://www.microsoft.com/en-us/research/project/knowledge-mining-api/)
+  * Knowledge Graph was partly powered by Freebase (now defunct, see the [Wikipedia entry](https://en.wikipedia.org/wiki/Freebase_(database))).
 
 * ### Microsoft Satori
 
   * Under development.
   
+  * [Knowledge Mining API](https://www.microsoft.com/en-us/research/project/knowledge-mining-api/)
+  
   * [Building a Large-scale, Accurate and Fresh Knowledge Graph](https://kdd2018tutorialt39.azurewebsites.net/)
     * [Slides](https://kdd2018tutorialt39.azurewebsites.net/KDD%20Tutorial%20T39.pdf)
+
+* ### [Cayley](https://cayley.io/)
+
+  * Open-source graph database inspired by Google's Knowledge Graph.
   
+  * Useful [forum](https://discourse.cayley.io/).
 
 ## Research
 
